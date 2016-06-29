@@ -1,6 +1,6 @@
 {
   "name": "nay",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A CLI that does nothing. Alternative to /dev/null and NUL.",
   "scripts": {
     "test": "tap test.js"

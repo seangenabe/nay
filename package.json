@@ -8,7 +8,7 @@
   "homepage": "https://github.com/seangenabe/nay",
   "author": "Sean Genabe <seangenabe@outlook.com>",
   "repository": "seangenabe/nay",
-  "license": "MIT",
+  "license": "(MIT OR CC0-1.0)",
   "engines": {
     "node": ">=4.0.0"
   },

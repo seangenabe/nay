@@ -31,4 +31,4 @@ assert(require('nay') === undefined)
 
 ## License
 
-MIT
+MIT or CC0-1.0

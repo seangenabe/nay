@@ -23,6 +23,6 @@
     "null"
   ],
   "devDependencies": {
-    "tap": "^8.0.1"
+    "tap": "^10.0.0"
   }
 }

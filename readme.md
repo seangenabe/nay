@@ -1,5 +1,7 @@
 # nay
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/seangenabe/nay.svg)](https://greenkeeper.io/)
+
 A CLI that does nothing. Alternative to /dev/null and NUL.
 
 [![npm](https://img.shields.io/npm/v/nay.svg?style=flat-square)](https://www.npmjs.com/package/nay)
